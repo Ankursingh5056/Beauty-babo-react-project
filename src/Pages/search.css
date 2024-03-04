@@ -1,0 +1,42 @@
+
+.search{
+ height: 32px;
+ width: 550px;
+}
+
+.main{
+  display: inline;
+}
+
+.second{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+}
+
+.icons{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+}
+      
+.inputSearch{
+  display: flex;
+  align-items: center;
+  
+}
+.inputSearch > span{
+  background-color:#DD0285;
+  margin-left: -3px;
+  padding:5px 10px;
+  border-radius: 2px;
+  
+
+}
+
+.topImg{
+  width: 100%;
+}
+
+
